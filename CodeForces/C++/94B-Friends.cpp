@@ -6,6 +6,7 @@ Problem 94B codeforces "Friends"*/
 #include <math.h>
 #include <limits.h>
 
+
 int main () {
 
     int numRelationships;
